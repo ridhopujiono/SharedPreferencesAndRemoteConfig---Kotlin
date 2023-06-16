@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194726728516",
+    "project_id": "pemrograman-mobile-4da2b",
+    "storage_bucket": "pemrograman-mobile-4da2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194726728516:android:4c30260a0503f75dd0bd11",
+        "android_client_info": {
+          "package_name": "com.example.a1412200020_sharedpreference_remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194726728516-gs44tpvbp6upg88bgja093dj9a59tht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71fqeO795cKCatwU_W7dNo9818QpeAj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194726728516-gs44tpvbp6upg88bgja093dj9a59tht9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
